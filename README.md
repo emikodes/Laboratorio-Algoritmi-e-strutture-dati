@@ -1,4 +1,4 @@
-# Laboratorio-Algoritmi-e-strtutture-dati
+# Laboratorio-Algoritmi-e-strutture-dati
 
 Questo repository contiene una serie di soluzioni di esercizi da me scritti in GoLang per il corso di "Algoritmi e strutture dati" dell'Università degli studi di Milano.
 
