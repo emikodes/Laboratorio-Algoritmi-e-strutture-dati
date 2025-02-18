@@ -6,7 +6,7 @@ Questo repository contiene una serie di soluzioni di esercizi da me scritti in G
 
 ***Per rimozione dei contenuti di questa pagina o altre domande:*** 
 
-[Contatto Telegram](https://t.me/notfoundnotfoundnotfound)
+[Contatto Telegram](https://t.me/emikodes)
 
 ---
 
